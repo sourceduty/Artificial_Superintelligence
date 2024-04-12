@@ -38,5 +38,10 @@ The potential involvement of ASI (Artificial Superintelligence) with custom vers
 
 Overall, the relationship between ASI and OpenAI would likely be shaped by a complex interplay of technical, strategic, ethical, and institutional factors, with the ultimate goal of advancing the capabilities of artificial intelligence while ensuring alignment with human values and interests.
 
+#
+### Related Links
+
+[AI](https://github.com/sourceduty/AI/)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
