@@ -92,6 +92,8 @@ In summary, these topics are at the forefront of AI research and philosophy, and
 ### Related Links
 
 [AI](https://github.com/sourceduty/AI/)
+<br>
+[xAI](https://github.com/sourceduty/xAI)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
